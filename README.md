@@ -1,7 +1,7 @@
 # Hi, I am Osama
 
 # About Me:
- I am a 2nd year computer engineering student at Mersin univesity <br/>
+ I am a second-year Computer Engineering student at Mersin University.<br/>
  I like to build cool stuff! <br />
 🔭 I’m currently working on simulaiton api<br>🌱 I’m currently learning: Scipy<br>⚡I like ping-pong, programming, calisthenics and listening to music
 
